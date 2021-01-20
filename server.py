@@ -5,7 +5,7 @@ import threading
 HEADER = 64
 PORT = 5015
 # SERVER = "192.168.56.10"
-SERVER = "158.75.54.56"      # for public server.   158.75.54.56 for wifi   192.168.56.10   158.75.87.169 for ethernet
+SERVER = "158.75.54.56"      # for public server.   158.75.54.56 for wifi   192.168.56.10   158.75.87.169 for ethernet cable
 # SERVER = socket.gethostbyname(socket.gethostname())   # for private server
 ADDR = (SERVER, PORT)
 FORMAT = "utf-8"
